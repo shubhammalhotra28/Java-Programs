@@ -1,0 +1,26 @@
+Name - SHUBHAM MALHOTRA
+Controls used are as follows: - 
+1) Menubar consisting of the help about and exit options.
+2) MouseListener as well as Mouse adapter
+3) various buttons(exit,very exit,ok) are created with different fuctionalities. 
+4) Music is added within the file.
+5) toggling control is there.
+
+HOW TO NAVIGATE AND USE THE PROGRAM - 
+So, the program can easily used while some of the dialog box will keep on appearing if the user is using the mouse or hovering over some of the buttons.
+we can add the text within the text field whereas if we press ok for more than specific no. of times(5) then the color of the text field will change as well as the text will be changed.
+Click me button is created as a separate Jframe which will play the audio
+Hola! SEE YOU IN GUI FROM HELL window has 3 text fields which will just display the dialog boxes to the user if the mouse is hovered among that window.
+Toggle buttons are also created within a different JFrame.
+Exit and TRAp buttons are added for the user convenience whereas exit will just display some message boxes and do not take the user out of the program.
+whereas the TRRAP button, whene hovered will ask the user to remain within the program or exirt from the program.
+
+WHAT MAKES MY PROGRAM THE MOST EVIL IN THE CLASS?
+We could not easily exit the program unless going through a specific ways. As,well as the change within the fonts , using Mouse listener , mouse adapter, adding of the song for some random seconds and various other functinalities might make my program the most evil within the class.
+
+HOW TO EXIT THE PROGRAM
+
+The program can be exited by two ways:-
+1) by going to exit option from the menu bar that is (FILE->EXIT).
+2) by hovering over the TRAP button and marking all the options with yes or ok.
+These two ways will end the running programs easilt.
